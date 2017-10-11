@@ -1,9 +1,9 @@
 # *pexpect* module for Package Control
 
-This is the *[pexpect][https://pexpect.readthedocs.io/en/stable/]* module
-bundled for usage with [Package Control][http://packagecontrol.io/],
+This is the *[pexpect](https://pexpect.readthedocs.io/en/stable/)* module
+bundled for usage with [Package Control](http://packagecontrol.io/),
 a package manager
-for the [Sublime Text][http://sublimetext.com/] text editor.
+for the [Sublime Text](http://sublimetext.com/) text editor.
 
 
 ## How to use *pexpect* as a dependency
@@ -44,7 +44,7 @@ See also:
 ## How to update this repository (for contributors)
 
 1. Download the latest tarball
-   from [pypi][https://pypi.python.org].
+   from [pypi](https://pypi.python.org).
 2. Delete everything inside the `all/` folder.
 3. Copy the `pexpect/` folder
    and everything related to copyright/licensing
@@ -66,8 +66,9 @@ under the *public domain*.
 The contents of the `all/` folder
 fall under *their own bundled licenses*.
 
+## Links
 
-[pexpect]: https://pexpect.readthedocs.io/en/stable/
-[Package Control]: http://packagecontrol.io/
-[Sublime Text]: http://sublimetext.com/
-[pypi]: https://pypi.python.org/pypi/pexpect
+[pexpect](https://pexpect.readthedocs.io/en/stable/)
+[Package Control](http://packagecontrol.io/)
+[Sublime Text](http://sublimetext.com/)
+[pypi](https://pypi.python.org/pypi/pexpect)
