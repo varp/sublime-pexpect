@@ -68,7 +68,7 @@ fall under *their own bundled licenses*.
 
 ## Links
 
-[pexpect](https://pexpect.readthedocs.io/en/stable/)
-[Package Control](http://packagecontrol.io/)
-[Sublime Text](http://sublimetext.com/)
-[pypi](https://pypi.python.org/pypi/pexpect)
+- [pexpect](https://pexpect.readthedocs.io/en/stable/)
+- [Package Control](http://packagecontrol.io/)
+- [Sublime Text](http://sublimetext.com/)
+- [pypi](https://pypi.python.org/pypi/pexpect)
