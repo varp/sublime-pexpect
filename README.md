@@ -18,7 +18,7 @@ with the following contents:
 ```js
 {
    "*": {
-      "*": [
+      ">3000": [
          "pexpect"
       ]
    }
