@@ -1,4 +1,4 @@
-.. image:: https://travis-ci.org/pexpect/pexpect.png?branch=master
+.. image:: https://travis-ci.org/pexpect/pexpect.svg?branch=master
    :target: https://travis-ci.org/pexpect/pexpect
    :align: right
    :alt: Build status
@@ -13,7 +13,7 @@ Don Libes' Expect. Pexpect allows your script to spawn a child application and
 control it as if a human were typing commands.
 
 Pexpect can be used for automating interactive applications such as ssh, ftp,
-passwd, telnet, etc. It can be used to a automate setup scripts for duplicating
+passwd, telnet, etc. It can be used to automate setup scripts for duplicating
 software package installations on different servers. It can be used for
 automated software testing. Pexpect is in the spirit of Don Libes' Expect, but
 Pexpect is pure Python.
@@ -38,7 +38,7 @@ PEXPECT LICENSE::
 
     http://opensource.org/licenses/isc-license.txt
 
-    Copyright (c) 2013-2014, Pexpect development team
+    Copyright (c) 2013-2016, Pexpect development team
     Copyright (c) 2012, Noah Spurrier <noah@noah.org>
 
     PERMISSION TO USE, COPY, MODIFY, AND/OR DISTRIBUTE THIS SOFTWARE FOR ANY
